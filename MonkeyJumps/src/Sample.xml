@@ -1,0 +1,621 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<juuri xsi:type="abstrakti_juuri" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	aliprojekti="hva">
+	<ohjaustiedot>
+		<lahettavasovellus>hva</lahettavasovellus>
+		<asiakirjatyyppi>Vakuutustiliote</asiakirjatyyppi>
+		<formaatti>pdfa</formaatti>
+		<id_tieto>hva201708220001</id_tieto>
+		<lahetyskohde kohde1="hva" kohde2="dokumenttipalvelu"></lahetyskohde>
+		<sahkopostiosoite>kemu@op.fi</sahkopostiosoite>
+	</ohjaustiedot>
+	<jakelusivu>
+		<kustpaikka>5925253020</kustpaikka>
+		<yhteyshlo>hva_tuotannonvalvonta</yhteyshlo>
+		<sopimusnumero>123456</sopimusnumero>
+		<laskutustunnus>654321</laskutustunnus>
+		<pluokka></pluokka>
+		<lahettaja>Itella Oy</lahettaja>
+		<lahlaos>Postintaival 9</lahlaos>
+		<lahpost>00230 Itella</lahpost>
+		<vastottaja>pohjola</vastottaja>
+		<vastlahos>Lapinmäentie 1</vastlahos>
+		<vastpost>00013 Pohjola</vastpost>
+		<kukoko>C4</kukoko>
+		<kuorikoodi>OC4</kuorikoodi>
+		<yhtio></yhtio>
+		<kuormerk>K</kuormerk>
+		<osasto>Hoito</osasto>
+		<jakelu1></jakelu1>
+	</jakelusivu>
+	<data>
+		<kieli>fin</kieli>
+		<asiakirjaId>x</asiakirjaId>
+		<metadata>
+			<asiakastunnus>120890-805C</asiakastunnus>
+			<sopimusnumero>101-2071981</sopimusnumero>
+			<sailytysaika>99</sailytysaika>
+			<julkisuusaste>asiakaskohtainen</julkisuusaste>
+			<lahettaja>yhtio</lahettaja>
+			<asiakirjatyyppi></asiakirjatyyppi>
+			<asiakirjalajikoodi>112</asiakirjalajikoodi>
+			<asiakirjalaji>Vakuutustiliote</asiakirjalaji>
+		</metadata>
+		<Metadata_A360>
+			<recordtypeid>30.02.02.06.02</recordtypeid>
+			<detailedsecurityclass></detailedsecurityclass>
+			<owner>5925250000</owner>
+			<otherallowedparty>582654</otherallowedparty>
+			<applicationid>HVA</applicationid>
+			<caseid>101-2071981</caseid>
+			<recordvisibility>0</recordvisibility>
+			<recordstatus>Arkistoitu</recordstatus>
+			<originalrecordmedium>1</originalrecordmedium>
+			<signaturemethod>0</signaturemethod>
+			<retentionbasedate></retentionbasedate>
+			<customerid>120890-805C</customerid>
+			<customerrole>Omistaja</customerrole>
+			<customertype>1</customertype>
+			<recordlanguage>fi</recordlanguage>
+			<eventdate>2017-08-21</eventdate>
+			<recordkeywords>
+				<keyword>OP-sijoitusvakuutus</keyword>
+				<keyword>101-2071981</keyword>
+			</recordkeywords>
+			<contractid>101-2071981</contractid>
+			<feedback>
+				<recordtypeid>30.02.02.06.02</recordtypeid>
+				<clientlanguage>fi</clientlanguage>
+				<printoutname>Vakuutustiliote</printoutname>
+				<agreementid>101-2071981</agreementid>
+				<productname>OP-sijoitusvakuutus</productname>
+				<clientid>120890-805C</clientid>
+				<clienttype>Person</clienttype>
+				<sendingmethod>EPRINT</sendingmethod>
+				<alertmethod>SMS</alertmethod>
+				<alertaddress>+358-40-8408808</alertaddress>
+			</feedback>
+		</Metadata_A360>
+		<asiakirja_data>
+			<printData>
+				<agreement productid="1303" productmodifier="DEFAULT"
+					language="fi" producttype="1401" status="inForce" irrevocable="Unknown"
+					pledged="NotPledged">
+					<today>21.08.2017</today>
+					<todayYear>2017</todayYear>
+					<anniversaryDay>1</anniversaryDay>
+					<anniversaryMonth>3</anniversaryMonth>
+					<currency>EUR</currency>
+					<currencySymbol>€</currencySymbol>
+					<product>
+						<name>OP-sijoitusvakuutus</name>
+						<terms>
+							<insuranceCode></insuranceCode>
+							<productCode></productCode>
+							<pricelistCode></pricelistCode>
+							<keyinfoCode></keyinfoCode>
+						</terms>
+					</product>
+					<offerId>101-2071981</offerId>
+					<agreementId>101-2071981</agreementId>
+					<oldAgreementId></oldAgreementId>
+					<orderDate>21.08.2017</orderDate>
+					<printStart>03.07.2017</printStart>
+					<printEnd>31.07.2017</printEnd>
+					<reference>10100000207198100</reference>
+					<businessstartdate>16.02.2017</businessstartdate>
+					<businessenddate>16.02.2047</businessenddate>
+					<issuanceDate>16.02.2017</issuanceDate>
+					<offerdate>16.02.2017</offerdate>
+					<offervaliddate>18.03.2017</offervaliddate>
+					<status>60</status>
+					<subStatus></subStatus>
+					<policyHolderIsPayer>true</policyHolderIsPayer>
+					<taxCode>251</taxCode>
+					<isBaseRateAvailable>NO</isBaseRateAvailable>
+					<policyholder type="person">
+						<firstName>KUUSI</firstName>
+						<lastName>OTTO</lastName>
+						<birthDate>12.08.1990</birthDate>
+						<isPrintoutReceiver>Yes</isPrintoutReceiver>
+						<bankAccount></bankAccount>
+						<BICcode></BICcode>
+						<id>120890-805C</id>
+					</policyholder>
+					<payer type="person">
+						<firstName>KUUSI</firstName>
+						<lastName>OTTO</lastName>
+						<birthDate>12.08.1990</birthDate>
+						<paymentMethod>30</paymentMethod>
+						<referenceNumber>10100000207198100</referenceNumber>
+						<isPrintoutReceiver>No</isPrintoutReceiver>
+						<bankAccount></bankAccount>
+						<BICcode></BICcode>
+						<id>120890-805C</id>
+					</payer>
+					<insured type="person">
+						<firstName>KUUSI</firstName>
+						<lastName>OTTO</lastName>
+						<birthDate>12.08.1990</birthDate>
+						<isPrintoutReceiver>No</isPrintoutReceiver>
+						<bankAccount></bankAccount>
+						<BICcode></BICcode>
+						<id>120890-805C</id>
+						<sex>2</sex>
+					</insured>
+				</agreement>
+				<payments>
+					<totalNonRiskPaymentAmount>0,00</totalNonRiskPaymentAmount>
+					<totalNormalPaymentAmount>0,00</totalNormalPaymentAmount>
+					<totalTransferPaymentAmount>0,00</totalTransferPaymentAmount>
+					<totalNonTaxDeductiblePaymentsAmount>0,00</totalNonTaxDeductiblePaymentsAmount>
+					<totalNormalFullTaxDeductibleAmount>0,00</totalNormalFullTaxDeductibleAmount>
+					<totalNormalFullTaxDeductibleSavingsAmount>0,00</totalNormalFullTaxDeductibleSavingsAmount>
+					<totalNormalFullTaxDeductibleRiskPremiumAmount>0,00</totalNormalFullTaxDeductibleRiskPremiumAmount>
+					<totalNormalPartialTaxDeductibleAmount>0,00</totalNormalPartialTaxDeductibleAmount>
+					<totalNormalPartialTaxDeductibleSavingsAmount>0,00</totalNormalPartialTaxDeductibleSavingsAmount>
+					<totalNormalPartialTaxDeductibleRiskPremiumAmount>0,00</totalNormalPartialTaxDeductibleRiskPremiumAmount>
+					<totalNormalNonTaxDeductibleAmount>0,00</totalNormalNonTaxDeductibleAmount>
+					<totalNormalNonTaxDeductibleSavingsAmount>0,00</totalNormalNonTaxDeductibleSavingsAmount>
+					<totalNormalNonTaxDeductibleRiskPremiumAmount>0,00</totalNormalNonTaxDeductibleRiskPremiumAmount>
+				</payments>
+				<accountStatement>
+					<Start>
+						<entry investmentType="Fund">
+							<investment>OP-Dollari A</investment>
+							<investmentValueDate>30.06.2017</investmentValueDate>
+							<unitValue>116,4500</unitValue>
+							<coefficient>0</coefficient>
+							<scaledUnitValue>0,0000</scaledUnitValue>
+							<values reserveType="none">
+								<units>5,5013</units>
+								<money>640,63</money>
+							</values>
+							<totalUnits>5,5013</totalUnits>
+							<totalMoney>640,63</totalMoney>
+							<share>100,00</share>
+						</entry>
+						<totalSavings>640,63</totalSavings>
+						<startDate>03.07.2017</startDate>
+					</Start>
+					<End>
+						<entry investmentType="Fund">
+							<investment>OP-Dollari A</investment>
+							<investmentValueDate>31.07.2017</investmentValueDate>
+							<unitValue>112,7700</unitValue>
+							<coefficient>0</coefficient>
+							<scaledUnitValue>0,0000</scaledUnitValue>
+							<values reserveType="none">
+								<units>5,4995</units>
+								<money>620,18</money>
+							</values>
+							<totalUnits>5,4995</totalUnits>
+							<totalMoney>620,18</totalMoney>
+							<share>100,00</share>
+							<investmentExpensesPercentage>0,50</investmentExpensesPercentage>
+						</entry>
+						<totalSavings>620,18</totalSavings>
+						<investmentExpensesWeightedAverage>0,50</investmentExpensesWeightedAverage>
+						<netYield>-20,45</netYield>
+						<effectiveInterest>-33,52</effectiveInterest>
+						<expensesPercentage>0,03</expensesPercentage>
+						<endDate>31.07.2017</endDate>
+					</End>
+					<Summary>
+						<value valueType="NET_RISK">0,00</value>
+						<value valueType="BASE_RATE_INTEREST">0,00</value>
+						<value valueType="ADDITIONAL_INTEREST">0,00</value>
+						<value valueType="CORRECTION">0,00</value>
+						<value valueType="KAPPA_DISCOUNT">0,00</value>
+						<value valueType="PROFIT_SHARING">0,00</value>
+						<value valueType="BONUS">0,00</value>
+						<value valueType="GAMMA_LOADING">-0,21</value>
+						<value valueType="GAMMA_LOADING_FIXED">0,00</value>
+						<value valueType="ADMISTRATION_FEE">0,00</value>
+						<value valueType="KAPPA_LOADING">0,00</value>
+						<value valueType="SURRENDER_FEE">0,00</value>
+						<value valueType="TRANSFER_FEE">0,00</value>
+						<value valueType="INVESTMENT_FEE">0,00</value>
+						<value valueType="REALLOCATION_FEE">0,00</value>
+						<value valueType="TRANSACTION_FEE">0,00</value>
+						<value valueType="PENSION_FEE">0,00</value>
+						<value valueType="EARLY_RETIREMENT_PENALTY">0,00</value>
+						<value valueType="PAYMENT_PENALTY">0,00</value>
+						<value valueType="INVESTMENT_EXPENSES">0,00</value>
+						<value valueType="EARLY_ESTABLISHMENT_CHARGE">0,00</value>
+						<value valueType="TOTAL_WITHDRAWALS">0,00</value>
+						<value valueType="TOTAL_PENSIONS">0,00</value>
+						<value valueType="TOTAL_PAYMENTS">0,00</value>
+						<value valueType="COMPENSATION_FOR_ADD_PAYMENT">0,00</value>
+						<value valueType="BASE_RESERVE">0,00</value>
+						<value valueType="CLIENT_LOYALTY_BONUS">0,00</value>
+						<value valueType="OFFER_SPREAD">0,00</value>
+						<value valueType="BID_SPREAD">0,00</value>
+						<value valueType="SPECIAL_ADDITIONAL_BENEFIT">0,00</value>
+						<value valueType="WAIVER_OF_PREMIUM">0,00</value>
+						<value valueType="NET_RISK_POSITIVE">0,00</value>
+						<value valueType="NET_RISK_NEGATIVE">0,00</value>
+						<value valueType="CORRECTION_POSITIVE">0,00</value>
+						<value valueType="CORRECTION_NEGATIVE">0,00</value>
+						<value valueType="TOTAL_INCOMES">0,00</value>
+						<value valueType="TOTAL_CHARGES">-0,21</value>
+						<value valueType="TOTAL_EXPENSES">-0,21</value>
+					</Summary>
+					<fundValueNetChange>-20,24</fundValueNetChange>
+					<totalWithdrawalsAmount>0,00</totalWithdrawalsAmount>
+					<totalPensionsAmount>0,00</totalPensionsAmount>
+					<totalIncomingPaymentsAmount>700,00</totalIncomingPaymentsAmount>
+					<totalTransferredSavingsAmount>0,00</totalTransferredSavingsAmount>
+					<additionalInterest type="ACTIVE_END_OF_YEAR">
+						<value>0,00</value>
+						<year>2016</year>
+					</additionalInterest>
+					<netYield>-79,82</netYield>
+					<netYieldForSavingsPeriod>-79,82</netYieldForSavingsPeriod>
+					<effectiveInterest>-23,37</effectiveInterest>
+					<effectiveInterestForSavingsPeriod>-23,37</effectiveInterestForSavingsPeriod>
+					<totalExpenses>0,21</totalExpenses>
+					<relativeAnnualExpensesAmount>5,34</relativeAnnualExpensesAmount>
+					<startDateForEffectiveInterest>16.02.2017</startDateForEffectiveInterest>
+				</accountStatement>
+				<common>
+					<ownerName>JTY-OP-Henkivakuutus</ownerName>
+					<ownerPhone>010252111</ownerPhone>
+					<liabilityCompany>
+						<companyName>OP-Henkivakuutus Oy</companyName>
+						<postbox></postbox>
+						<zipCode></zipCode>
+						<placeOfOrigin>Helsinki</placeOfOrigin>
+						<phoneNumberExchange>010 252 010</phoneNumberExchange>
+						<phoneNumberServiceCenter>010 253 6125</phoneNumberServiceCenter>
+						<phoneNumberCare>010 253 6100</phoneNumberCare>
+						<phoneNumberClaim>010 253 6106</phoneNumberClaim>
+						<faxNumberCare>010 252 3501</faxNumberCare>
+						<faxNumberClaim>010 252 2276</faxNumberClaim>
+						<webAddress>www.op.fi</webAddress>
+						<email>varallisuudenhoitovakuutukset@op.fi</email>
+						<accounts>
+							<accountIban>FI1058410220031662</accountIban>
+							<accountFinnish>58410220031662</accountFinnish>
+							<accountBic>OKOYFIHH</accountBic>
+						</accounts>
+						<businessId>1030059-2</businessId>
+						<postalAddress></postalAddress>
+					</liabilityCompany>
+					<taxes>
+						<capitalTaxPerc>30,00</capitalTaxPerc>
+						<incomeTaxPerc>40,00</incomeTaxPerc>
+						<withholdingTaxPerc>30,00</withholdingTaxPerc>
+					</taxes>
+					<baseRate></baseRate>
+					<salesAgentInfo>
+						<firstName>Kolmos-Heva</firstName>
+						<lastName>Korvauskäsittelijä</lastName>
+						<phone></phone>
+						<email></email>
+						<channel>
+							<unitName>JTY-OP-Henkivakuutus</unitName>
+							<address>
+								<addressRow1>Lapinmäentie 1</addressRow1>
+								<addressRow2>00350 Helsinki</addressRow2>
+							</address>
+						</channel>
+					</salesAgentInfo>
+					<receiverInfo>
+						<receiverName>OTTO KUUSI</receiverName>
+						<sendingMethod>EPRINT</sendingMethod>
+						<receiver_id>120890-805C</receiver_id>
+						<alertMessage>SMS</alertMessage>
+						<alertAddress>+358-40-8408808</alertAddress>
+						<address country="FINLAND" countryCode="FI">
+							<addressRow1>Volimo</addressRow1>
+							<addressRow2>00380 HELSINKI</addressRow2>
+						</address>
+					</receiverInfo>
+				</common>
+				<headerAndFooter>
+					<policyRepresentativeType>30</policyRepresentativeType>
+				</headerAndFooter>
+				<surrenderSimulation>
+					<surrenderAmount>568,97</surrenderAmount>
+				</surrenderSimulation>
+				<policyParameters></policyParameters>
+			</printData>
+		</asiakirja_data>
+	</data>
+	<data>
+		<kieli>fin</kieli>
+		<asiakirjaId>x</asiakirjaId>
+		<metadata>
+			<asiakastunnus>190790-427W</asiakastunnus>
+			<sopimusnumero>101-2071978</sopimusnumero>
+			<sailytysaika>99</sailytysaika>
+			<julkisuusaste>asiakaskohtainen</julkisuusaste>
+			<lahettaja>yhtio</lahettaja>
+			<asiakirjatyyppi></asiakirjatyyppi>
+			<asiakirjalajikoodi>112</asiakirjalajikoodi>
+			<asiakirjalaji>Vakuutustiliote</asiakirjalaji>
+		</metadata>
+		<Metadata_A360>
+			<recordtypeid>30.02.02.06.02</recordtypeid>
+			<detailedsecurityclass></detailedsecurityclass>
+			<owner>5925250000</owner>
+			<otherallowedparty>582654</otherallowedparty>
+			<applicationid>HVA</applicationid>
+			<caseid>101-2071978</caseid>
+			<recordvisibility>0</recordvisibility>
+			<recordstatus>Arkistoitu</recordstatus>
+			<originalrecordmedium>1</originalrecordmedium>
+			<signaturemethod>0</signaturemethod>
+			<retentionbasedate></retentionbasedate>
+			<customerid>190790-427W</customerid>
+			<customerrole>Omistaja</customerrole>
+			<customertype>1</customertype>
+			<recordlanguage>fi</recordlanguage>
+			<eventdate>2017-08-21</eventdate>
+			<recordkeywords>
+				<keyword>OP-sijoitusvakuutus</keyword>
+				<keyword>101-2071978</keyword>
+			</recordkeywords>
+			<contractid>101-2071978</contractid>
+			<feedback>
+				<recordtypeid>30.02.02.06.02</recordtypeid>
+				<clientlanguage>fi</clientlanguage>
+				<printoutname>Vakuutustiliote</printoutname>
+				<agreementid>101-2071978</agreementid>
+				<productname>OP-sijoitusvakuutus</productname>
+				<clientid>190790-427W</clientid>
+				<clienttype>Person</clienttype>
+				<sendingmethod>EPRINT</sendingmethod>
+				<alertmethod>MAIL</alertmethod>
+				<alertaddress>cgi_testaa@osuuspankki.fi</alertaddress>
+			</feedback>
+		</Metadata_A360>
+		<asiakirja_data>
+			<printData>
+				<agreement productid="1303" productmodifier="DEFAULT"
+					language="fi" producttype="1401" status="inForce" irrevocable="Unknown"
+					pledged="NotPledged">
+					<today>21.08.2017</today>
+					<todayYear>2017</todayYear>
+					<anniversaryDay>1</anniversaryDay>
+					<anniversaryMonth>3</anniversaryMonth>
+					<currency>EUR</currency>
+					<currencySymbol>€</currencySymbol>
+					<product>
+						<name>OP-sijoitusvakuutus</name>
+						<terms>
+							<insuranceCode></insuranceCode>
+							<productCode></productCode>
+							<pricelistCode></pricelistCode>
+							<keyinfoCode></keyinfoCode>
+						</terms>
+					</product>
+					<offerId>101-2071978</offerId>
+					<agreementId>101-2071978</agreementId>
+					<oldAgreementId></oldAgreementId>
+					<orderDate>21.08.2017</orderDate>
+					<printStart>03.07.2017</printStart>
+					<printEnd>31.07.2017</printEnd>
+					<reference>10100000207197800</reference>
+					<businessstartdate>16.02.2017</businessstartdate>
+					<businessenddate>16.02.2047</businessenddate>
+					<issuanceDate>16.02.2017</issuanceDate>
+					<offerdate>16.02.2017</offerdate>
+					<offervaliddate>18.03.2017</offervaliddate>
+					<status>60</status>
+					<subStatus></subStatus>
+					<policyHolderIsPayer>true</policyHolderIsPayer>
+					<taxCode>251</taxCode>
+					<isBaseRateAvailable>NO</isBaseRateAvailable>
+					<policyholder type="person">
+						<firstName>KUUSI</firstName>
+						<lastName>ANTTI</lastName>
+						<birthDate>19.07.1990</birthDate>
+						<isPrintoutReceiver>Yes</isPrintoutReceiver>
+						<bankAccount></bankAccount>
+						<BICcode></BICcode>
+						<id>190790-427W</id>
+					</policyholder>
+					<payer type="person">
+						<firstName>KUUSI</firstName>
+						<lastName>ANTTI</lastName>
+						<birthDate>19.07.1990</birthDate>
+						<paymentMethod>30</paymentMethod>
+						<referenceNumber>10100000207197800</referenceNumber>
+						<isPrintoutReceiver>No</isPrintoutReceiver>
+						<bankAccount></bankAccount>
+						<BICcode></BICcode>
+						<id>190790-427W</id>
+					</payer>
+					<insured type="person">
+						<firstName>KUUSI</firstName>
+						<lastName>ANTTI</lastName>
+						<birthDate>19.07.1990</birthDate>
+						<isPrintoutReceiver>No</isPrintoutReceiver>
+						<bankAccount></bankAccount>
+						<BICcode></BICcode>
+						<id>190790-427W</id>
+						<sex>2</sex>
+					</insured>
+				</agreement>
+				<payments>
+					<totalNonRiskPaymentAmount>0,00</totalNonRiskPaymentAmount>
+					<totalNormalPaymentAmount>0,00</totalNormalPaymentAmount>
+					<totalTransferPaymentAmount>0,00</totalTransferPaymentAmount>
+					<totalNonTaxDeductiblePaymentsAmount>0,00</totalNonTaxDeductiblePaymentsAmount>
+					<totalNormalFullTaxDeductibleAmount>0,00</totalNormalFullTaxDeductibleAmount>
+					<totalNormalFullTaxDeductibleSavingsAmount>0,00</totalNormalFullTaxDeductibleSavingsAmount>
+					<totalNormalFullTaxDeductibleRiskPremiumAmount>0,00</totalNormalFullTaxDeductibleRiskPremiumAmount>
+					<totalNormalPartialTaxDeductibleAmount>0,00</totalNormalPartialTaxDeductibleAmount>
+					<totalNormalPartialTaxDeductibleSavingsAmount>0,00</totalNormalPartialTaxDeductibleSavingsAmount>
+					<totalNormalPartialTaxDeductibleRiskPremiumAmount>0,00</totalNormalPartialTaxDeductibleRiskPremiumAmount>
+					<totalNormalNonTaxDeductibleAmount>0,00</totalNormalNonTaxDeductibleAmount>
+					<totalNormalNonTaxDeductibleSavingsAmount>0,00</totalNormalNonTaxDeductibleSavingsAmount>
+					<totalNormalNonTaxDeductibleRiskPremiumAmount>0,00</totalNormalNonTaxDeductibleRiskPremiumAmount>
+				</payments>
+				<accountStatement>
+					<Start>
+						<entry investmentType="Fund">
+							<investment>OP-Dollari A</investment>
+							<investmentValueDate>30.06.2017</investmentValueDate>
+							<unitValue>116,4500</unitValue>
+							<coefficient>0</coefficient>
+							<scaledUnitValue>0,0000</scaledUnitValue>
+							<values reserveType="none">
+								<units>3,9295</units>
+								<money>457,59</money>
+							</values>
+							<totalUnits>3,9295</totalUnits>
+							<totalMoney>457,59</totalMoney>
+							<share>100,00</share>
+						</entry>
+						<totalSavings>457,59</totalSavings>
+						<startDate>03.07.2017</startDate>
+					</Start>
+					<End>
+						<entry investmentType="Fund">
+							<investment>OP-Dollari A</investment>
+							<investmentValueDate>31.07.2017</investmentValueDate>
+							<unitValue>112,7700</unitValue>
+							<coefficient>0</coefficient>
+							<scaledUnitValue>0,0000</scaledUnitValue>
+							<values reserveType="none">
+								<units>3,9282</units>
+								<money>442,98</money>
+							</values>
+							<totalUnits>3,9282</totalUnits>
+							<totalMoney>442,98</totalMoney>
+							<share>100,00</share>
+							<investmentExpensesPercentage>0,50</investmentExpensesPercentage>
+						</entry>
+						<totalSavings>442,98</totalSavings>
+						<investmentExpensesWeightedAverage>0,50</investmentExpensesWeightedAverage>
+						<netYield>-14,61</netYield>
+						<effectiveInterest>-33,53</effectiveInterest>
+						<expensesPercentage>0,03</expensesPercentage>
+						<endDate>31.07.2017</endDate>
+					</End>
+					<Summary>
+						<value valueType="NET_RISK">0,00</value>
+						<value valueType="BASE_RATE_INTEREST">0,00</value>
+						<value valueType="ADDITIONAL_INTEREST">0,00</value>
+						<value valueType="CORRECTION">0,00</value>
+						<value valueType="KAPPA_DISCOUNT">0,00</value>
+						<value valueType="PROFIT_SHARING">0,00</value>
+						<value valueType="BONUS">0,00</value>
+						<value valueType="GAMMA_LOADING">-0,15</value>
+						<value valueType="GAMMA_LOADING_FIXED">0,00</value>
+						<value valueType="ADMISTRATION_FEE">0,00</value>
+						<value valueType="KAPPA_LOADING">0,00</value>
+						<value valueType="SURRENDER_FEE">0,00</value>
+						<value valueType="TRANSFER_FEE">0,00</value>
+						<value valueType="INVESTMENT_FEE">0,00</value>
+						<value valueType="REALLOCATION_FEE">0,00</value>
+						<value valueType="TRANSACTION_FEE">0,00</value>
+						<value valueType="PENSION_FEE">0,00</value>
+						<value valueType="EARLY_RETIREMENT_PENALTY">0,00</value>
+						<value valueType="PAYMENT_PENALTY">0,00</value>
+						<value valueType="INVESTMENT_EXPENSES">0,00</value>
+						<value valueType="EARLY_ESTABLISHMENT_CHARGE">0,00</value>
+						<value valueType="TOTAL_WITHDRAWALS">0,00</value>
+						<value valueType="TOTAL_PENSIONS">0,00</value>
+						<value valueType="TOTAL_PAYMENTS">0,00</value>
+						<value valueType="COMPENSATION_FOR_ADD_PAYMENT">0,00</value>
+						<value valueType="BASE_RESERVE">0,00</value>
+						<value valueType="CLIENT_LOYALTY_BONUS">0,00</value>
+						<value valueType="OFFER_SPREAD">0,00</value>
+						<value valueType="BID_SPREAD">0,00</value>
+						<value valueType="SPECIAL_ADDITIONAL_BENEFIT">0,00</value>
+						<value valueType="WAIVER_OF_PREMIUM">0,00</value>
+						<value valueType="NET_RISK_POSITIVE">0,00</value>
+						<value valueType="NET_RISK_NEGATIVE">0,00</value>
+						<value valueType="CORRECTION_POSITIVE">0,00</value>
+						<value valueType="CORRECTION_NEGATIVE">0,00</value>
+						<value valueType="TOTAL_INCOMES">0,00</value>
+						<value valueType="TOTAL_CHARGES">-0,15</value>
+						<value valueType="TOTAL_EXPENSES">-0,15</value>
+					</Summary>
+					<fundValueNetChange>-14,46</fundValueNetChange>
+					<totalWithdrawalsAmount>0,00</totalWithdrawalsAmount>
+					<totalPensionsAmount>0,00</totalPensionsAmount>
+					<totalIncomingPaymentsAmount>500,00</totalIncomingPaymentsAmount>
+					<totalTransferredSavingsAmount>0,00</totalTransferredSavingsAmount>
+					<additionalInterest type="ACTIVE_END_OF_YEAR">
+						<value>0,00</value>
+						<year>2016</year>
+					</additionalInterest>
+					<netYield>-57,02</netYield>
+					<netYieldForSavingsPeriod>-57,02</netYieldForSavingsPeriod>
+					<effectiveInterest>-23,37</effectiveInterest>
+					<effectiveInterestForSavingsPeriod>-23,37</effectiveInterestForSavingsPeriod>
+					<totalExpenses>0,15</totalExpenses>
+					<relativeAnnualExpensesAmount>5,34</relativeAnnualExpensesAmount>
+					<startDateForEffectiveInterest>16.02.2017</startDateForEffectiveInterest>
+				</accountStatement>
+				<common>
+					<ownerName>JTY-OP-Henkivakuutus</ownerName>
+					<ownerPhone>010252111</ownerPhone>
+					<liabilityCompany>
+						<companyName>OP-Henkivakuutus Oy</companyName>
+						<postbox></postbox>
+						<zipCode></zipCode>
+						<placeOfOrigin>Helsinki</placeOfOrigin>
+						<phoneNumberExchange>010 252 010</phoneNumberExchange>
+						<phoneNumberServiceCenter>010 253 6125</phoneNumberServiceCenter>
+						<phoneNumberCare>010 253 6100</phoneNumberCare>
+						<phoneNumberClaim>010 253 6106</phoneNumberClaim>
+						<faxNumberCare>010 252 3501</faxNumberCare>
+						<faxNumberClaim>010 252 2276</faxNumberClaim>
+						<webAddress>www.op.fi</webAddress>
+						<email>varallisuudenhoitovakuutukset@op.fi</email>
+						<accounts>
+							<accountIban>FI1058410220031662</accountIban>
+							<accountFinnish>58410220031662</accountFinnish>
+							<accountBic>OKOYFIHH</accountBic>
+						</accounts>
+						<businessId>1030059-2</businessId>
+						<postalAddress></postalAddress>
+					</liabilityCompany>
+					<taxes>
+						<capitalTaxPerc>30,00</capitalTaxPerc>
+						<incomeTaxPerc>40,00</incomeTaxPerc>
+						<withholdingTaxPerc>30,00</withholdingTaxPerc>
+					</taxes>
+					<baseRate></baseRate>
+					<salesAgentInfo>
+						<firstName>Kolmos-Heva</firstName>
+						<lastName>Korvauskäsittelijä</lastName>
+						<phone></phone>
+						<email></email>
+						<channel>
+							<unitName>JTY-OP-Henkivakuutus</unitName>
+							<address>
+								<addressRow1>Lapinmäentie 1</addressRow1>
+								<addressRow2>00350 Helsinki</addressRow2>
+							</address>
+						</channel>
+					</salesAgentInfo>
+					<receiverInfo>
+						<receiverName>ANTTI KUUSI</receiverName>
+						<sendingMethod>EPRINT</sendingMethod>
+						<receiver_id>190790-427W</receiver_id>
+						<alertMessage>MAIL</alertMessage>
+						<alertAddress>cgi_testaa@osuuspankki.fi</alertAddress>
+						<address country="FINLAND" countryCode="FI">
+							<addressRow1>Volimo</addressRow1>
+							<addressRow2>00380 HELSINKI</addressRow2>
+						</address>
+					</receiverInfo>
+				</common>
+				<headerAndFooter>
+					<policyRepresentativeType>30</policyRepresentativeType>
+				</headerAndFooter>
+				<surrenderSimulation>
+					<surrenderAmount>392,12</surrenderAmount>
+				</surrenderSimulation>
+				<policyParameters></policyParameters>
+			</printData>
+		</asiakirja_data>
+	</data>
+</juuri>
