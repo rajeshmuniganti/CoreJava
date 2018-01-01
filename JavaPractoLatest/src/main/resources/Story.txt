@@ -1,0 +1,10 @@
+When a relatively large story is split into multiple, smaller agile user stories, it is natural to assume that detail has been added. 
+After all, more has been written.
+The conditions of satisfaction is simply a high-level acceptance test that will be true after the agile user story is complete. 
+Consider the following as another agile user story example:
+As a vice president of marketing, I want to select a holiday season to be used when reviewing the performance of past advertising campaigns so that I can identify profitable ones.
+Detail could be added to that user story example by adding the following conditions of satisfaction:
+Make sure it works with major retail holidays: Christmas, Easter, President’s Day, Mother’s Day, Father’s Day, Labor Day, New Year’s Day.
+Support holidays that span two calendar years (none span three).
+Holiday seasons can be set from one holiday to the next (such as Thanksgiving to Christmas).
+Holiday seasons can be set to be a number of days prior to the holiday
